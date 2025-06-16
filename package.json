@@ -37,8 +37,5 @@
     "postcss": "^8.5.5",
     "tailwindcss": "^4.1.10",
     "vue3-apexcharts": "^1.8.0"
-  },
-  "engines": {
-    "node": ">=18.0.0 <= 20.10.0"
   }
 }
